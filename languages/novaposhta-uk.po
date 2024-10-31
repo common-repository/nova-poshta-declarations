@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: declarations\n"
+"POT-Creation-Date: 2016-12-10 21:48+0200\n"
+"PO-Revision-Date: 2016-12-10 21:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: justcodeUA\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html;__;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: NpControllerClass.php:36 views/npen_template.php:7
+msgid "Номер ЭН"
+msgstr "Номер ЕН"
+
+#: views/npen_metabox/npen_settigns_template.php:3
+msgid "Настройки: Новая почта Электронные накладные"
+msgstr "Налаштування: Нова пошта Електронні накладні"
+
+#: views/npen_metabox/npen_settigns_template.php:8
+#: views/npen_metabox/npen_settigns_template.php:11
+msgid "Название поля накладной"
+msgstr "Назва поля для накладноЇ"
+
+#: views/npen_metabox/npen_settigns_template.php:16
+msgid "Сохранить"
+msgstr "Зберегти"
+
+#~ msgid "Накладная (Новая почта):"
+#~ msgstr "Накладна (Нова почта)"
+
+#~ msgid "Информация для API"
+#~ msgstr "Інформація для API"
+
+#~ msgid "API ключ"
+#~ msgstr "API ключ"
+
+#~ msgid "Язык"
+#~ msgstr "Мова"
+
+#~ msgid "Русский"
+#~ msgstr "Російський"
+
+#~ msgid "Украинский"
+#~ msgstr "Український"
+
+#~ msgid "info"
+#~ msgstr "Укртекст"
